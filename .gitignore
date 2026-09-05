@@ -23,3 +23,7 @@ CMakeUserPresets.json
 /python/hyperon/_version.py
 /docs/generated/*.md
 /site
+/configure~
+/config.log
+/config.status
+/autom4te.cache/
